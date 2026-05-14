@@ -1,4 +1,4 @@
-# Rejuvinated
+# Rejuvenated
 
 Simple static website project containing the main landing page and changelog.
 
